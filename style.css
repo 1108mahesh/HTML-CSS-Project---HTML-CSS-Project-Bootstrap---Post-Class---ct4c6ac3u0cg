@@ -106,14 +106,15 @@ max-width: 100%;
     font-size: 2rem;
     text-align: center;
     text-transform: none;
-    padding: 1rem 0.5rem;
+    padding:  0.5rem;
     color: white;
 }
 .skill-name{
-    font-size:1.3rem;
+    font-size:1.2rem;
     text-align: left;
     padding: 0.5rem;
-    margin-top: 25px;
+    margin-top: 20px;
+    font-family: 'Comic Neue', cursive;
     
 }
 .progress-bar{
